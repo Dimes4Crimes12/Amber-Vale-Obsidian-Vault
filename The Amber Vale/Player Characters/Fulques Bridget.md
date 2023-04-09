@@ -1,3 +1,7 @@
+Also known as: The Wind Swift
+
+
+
 Fulques Bridget is a human monk born in Cethalon and is a member of the Cethalon monestary. His efficacy with martial arts and inherent sense of justice lead him to adventuring with the party to hunt the dragon terrorising the Clay Coast.
 
 ***Early Years*** 
@@ -16,7 +20,13 @@ Fulques is an upbeat and optimistic man, taking most of his qualities from Usher
 
 Inspite of this seemingly soft personality, Fulques possesses a nigh inhuman level of dexterity and wit. His years of training in martial arts had honed his mind and body, capable of devastating unarmed strikes at a lightning speed. His knowledge of weak points within the human body allow him to harness and exploit the flow of [[Ki]], paralyzing his foes and straining his body to accomplish incredible feats. His intuition and keen senses also gives him a good idea if someone is telling the truth, capable of reading the actions of those who oppose him.
 
-All these qualities lead to a close bond with his party members. Fulques is seemingly closest with [[Lorogath]], sharing a close bond and having saved eachothers lives countless times. [[Polaris]], on the other hand, is much of a antithesis of Fulques' beliefs which may lead him to act rebelliously or out of character. [[Matthew Squillesworth]] is a balance of the other two. While Fulques appreciates his noble and kind initiative, Matthew is often slower in action and more methodical which they are in slight disagreement in.
+All these qualities lead to a close bond with his party members. Fulques is seemingly closest with [[Lorogath]], sharing a close bond and having saved eachothers lives countless times. [[Polaris]], on the other hand, is much of a antithesis of Fulques' beliefs which may lead him to act rebelliously or out of character. [[Matthew Squillesworth]] is a balance of the other two. While Fulques appreciates his noble and kind initiative, Matthew is often slower in action and more methodical which opposes Fulques' ethics of work.
+
+
+***Equipment***
+Fulques carries little in the way of weapons or equipment, instead relying on his physical prowess or his boomerang for ranged targets. Rather than stocking up on useful items, Fulques prefers taking mementos from previous fights or encounters either as a token of memory or out of curiosity for their unknown purposes.
+
+Examples include a werewolf tooth, a skeletal hand found within the Phandalin mineshafts and the shattered scales of the white dragon.
 
 
 
@@ -30,12 +40,4 @@ All these qualities lead to a close bond with his party members. Fulques is seem
 
 
 
-
-
-
-
-
-
-
-
-Related: [[Races/Humans]] [[Characters]]
+Related: [[Human]] [[Characters]]
